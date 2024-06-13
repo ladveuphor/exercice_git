@@ -8,6 +8,11 @@ print(b)
 
 # nouvelle modif branche dev
 
+<<<<<<< HEAD
 c = a + b
 
 trex = "theropode"
+
+c = a + b
+
+sauropode = 2 + 132
